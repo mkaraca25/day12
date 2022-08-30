@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: bisque;
+}
+div{
+  background-color: aqua;
+  margin: 25px;
+}
+h1,h2{
+  background-color: teal;
+  border: 2px solid black;
+  margin-top: 4px;
+  padding-left: 4px;
+  color: bisque;
+  border-radius: 9px;
+  width: 80%;
+  text-align: center;
+}
+#Karsila{
+  border: 1px solid black;
+  margin: 8px;
+  padding: 6px;
+}
